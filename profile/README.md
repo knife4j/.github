@@ -12,6 +12,8 @@
 -->
 
 
-地址：https://knife4j.net
+地址：http://knife4j.net
+
+试用：https://console.knife4j.net
 
 联系：xiaoymin@foxmail.com
